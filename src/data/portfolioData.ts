@@ -87,8 +87,8 @@ export const skills: SkillCategory[] = [
 export const experiences: Experience[] = [
   {
     title: 'Specialist Programmer',
-    company: 'Infosys',
-    duration: '2024 - Present',
+    company: 'Infosys Ltd',
+    duration: 'Oct 2024 - Present',
     responsibilities: [
       'Built and deployed full-stack applications using Java Spring Boot, React, FastAPI, and Python.',
       'Developed a Recruitment Portal (React + FastAPI), mentored peers, and received managerial recognition.',
